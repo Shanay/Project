@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Internship</string>
+    <string name="simson_technologies">Simson Softwares</string>
+    <string name="logo">logo</string>
+    <string name="welcome">Welcome</string>
+    <string name="title_webpage_list">Webpages</string>
+    <string name="title_webpage_detail">Webpage Detail</string>
+</resources>
